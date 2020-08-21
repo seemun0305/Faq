@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Faq</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="clickme">Click me</string>
+    <string name="first">Expandable Layout provides an easy way to create a view called header with an expandable view. Views are external layout to allow a maximum of customization.</string>
+</resources>
